@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi I am Nooria Khan 👋
 
-<!--
-**N00ria/N00ria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Computer Science and Film, Television and Media graduate from the University of Michigan passionate about building systems and solving problems that make a real difference.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 B.S. Computer Science and Film, Television and Media — University of Michigan 2026
+- 🔭 Currently seeking software and data engineering roles
+- 🌱 Currently learning dbt and Snowflake
+- 🌍 I speak five languages — English, Dari, Pashto, Urdu and Hindi
+- 💬 Ask me about Python, SQL, data pipelines and machine learning
+- 📫 Reach me at Nooria.Hakeem.Khan@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | SQL | JavaScript | TypeScript | React | PyTorch | pandas | AWS | Firebase | Git
+
+## Featured Projects
+Check out my pinned repositories below!
